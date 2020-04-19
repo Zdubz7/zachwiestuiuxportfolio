@@ -2,20 +2,20 @@
   "__parent": "./config.json"
 , "person": {
       "name": {
-          "first":  "Tomas"
-        , "last":   "Baltrushaitis"
+          "first":  "Zach"
+        , "last":   "Wiest"
         , "full":   "@{./last} @{./first}"
       }
     , "nick":   "Tom&acute;AS"
     , "abbr":   "tbaltrushaitis"
-    , "email":  "@{./abbr}@gmail.com"
-    , "url":    "http://bit.ly/tomascv"
+    , "email":  "@{./zachwiest7}@gmail.com"
+    , "url":    "http://bit.ly/zachwiestcv"
     , "bio": {
           "birth":        "October &apos;82"
         , "citizenship":  "Ukrainian"
         , "location": {
-              "country":  "Ukraine"
-            , "city":     "Kyiv"
+              "country":  "United States"
+            , "city":     "Philadelphia"
             , "full":     "@{./country}, @{./city}"
             , "lat":      50.436336
             , "lng":      30.488619
