@@ -111,7 +111,7 @@
     "jshint": "^2.10.1",
     "jshint-stylish": "^2.2.1",
     "livereload": "^0.7.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "lodash.template": "^4.5.0",
     "main-bower-files": "^2.13.3",
     "merge-stream": "^1.0.1",
